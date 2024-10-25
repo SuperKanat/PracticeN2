@@ -1,7 +1,7 @@
 // App.js
 import React, { useState } from 'react';
 import { FlatList, View, RefreshControl, StyleSheet } from 'react-native';
-import LanguageItem from '/home/observer/ProgrammingProjects/ReactNative/LanguageApp/components/LanguageItem.jsx';
+import LanguageItem from '/home/observer/ProgrammingProjects/ReactNative/PracticeN2/components/LanguageItem.jsx';
 const langs = [
     { id: '1', lang: 'JavaScript', experience: '1 год опыта' },
     { id: '2', lang: 'Python', experience: '6 месяцев опыта' },
